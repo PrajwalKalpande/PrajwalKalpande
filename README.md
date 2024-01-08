@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Prajwal Kalpande
-- 🔭 I’m currently working on my CP skills
-- 🌱 I’m currently studying Electrical Engineering at IIT Bombay
-- 🤔 I’m looking for help with improving my software development skills
+- 👋 Hi there, I’m Prajwal Kalpande
+- 🔭 I enjoy solving problems and doing CP
+- 🌱 I’m in my final year of Electrical Engineering at IIT Bombay
+- 🤔 I look forward to working on low-level, latency and performance critical projects  
 - 📫 How to reach me: Drop a mail at prajwalkalpande3@gmail.com
 - ![Prajwal Kalpande's github stats](https://github-readme-stats.vercel.app/api?username=PrajwalKalpande&show_icons=true&theme=dark)
 <br></br>
